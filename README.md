@@ -5,7 +5,7 @@
 - 🌱 Atualmente, estou aprendendo HTML, CSS, JavaScript e Python.
 - 🎓 Estudante de Ciência da Computação na ESTÁCIO.
 - 💼 À procura de oportunidades para iniciar minha carreira em tecnologia.
-- 🌐 Veja meu [portfólio](https://seu-portfolio.com).
+  
 
 ## 🛠️ Tecnologias e Ferramentas
 - 🌐 HTML
