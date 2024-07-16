@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá! Eu sou Pedro Henrique 👋
 
-<!--
-**pedrinnh1/Pedrinnh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Ciência da Computação** 
 
-Here are some ideas to get you started:
+- 🌱 Atualmente, estou aprendendo HTML, CSS, JavaScript e Python.
+- 🎓 Estudante de Ciência da Computação na ESTÁCIO.
+- 💼 À procura de oportunidades para iniciar minha carreira em tecnologia.
+- 🌐 Veja meu [portfólio](https://seu-portfolio.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- 🌐 HTML
+- 🎨 CSS
+- 💻 JavaScript
+- 🐍 Python
+- 🗃️ Git
+- 📚 Entre outras
+
+## 📫 Contato
+- **Email**: [ph732037@gmail.com](mailto:ph732037@gmail.com)
+- **LinkedIn**: [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique)
+
+Obrigado por visitar meu perfil!
