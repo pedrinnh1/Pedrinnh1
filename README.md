@@ -20,7 +20,12 @@
 </div>
 
 ## 📫 Contato
-- **Email**: [ph732037@gmail.com](mailto:ph732037@gmail.com)
-- **LinkedIn**: [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique)
+<a href="mailto:ph732037@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 40px;">
+</a>
+<a href="https://www.linkedin.com/in/pedrohenrique016" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px;">
+</a>
+
 
 Obrigado por visitar meu perfil!
